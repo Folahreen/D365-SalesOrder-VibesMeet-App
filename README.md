@@ -20,6 +20,7 @@ This PowerApps-based application connects with Dynamics 365 to display and manag
 ## Screenshots
 ![Order Details](OrderDetails.png)
 ![New Order](NewOrder.png)
+![List Order](NewOrder.png)
 
 ## Demo Video
 
