@@ -23,7 +23,5 @@ This PowerApps-based application connects with Dynamics 365 to display and manag
 ![List Order](SalesOrderDetails.png)
 
 ## Demo Video
+![Sales Order Demo](D365-SalesOrder-Demo.mov)
 
-
-## License
-MIT License
