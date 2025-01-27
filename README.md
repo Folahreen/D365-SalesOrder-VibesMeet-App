@@ -22,6 +22,6 @@ This PowerApps-based application connects with Dynamics 365 to display and manag
 ![Order Details](OrderDetails.png)
 ![List Order](SalesOrderDetails.png)
 
-## Demo Video
-![Sales Order Demo](https://www.loom.com/share/f6e31eda6c624de9922e12d51298d2e7?sid=43551560-39f7-456b-b4b6-04e49fb08a5b)
+## Demo Video  
+Check out the app demo walkthrough on Loom: [D365 Sales Order App Demo Walkthrough](https://www.loom.com/share/f6e31eda6c624de9922e12d51298d2e7?sid=43551560-39f7-456b-b4b6-04e49fb08a5b)  
 
